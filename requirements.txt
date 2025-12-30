@@ -1,0 +1,2 @@
+# No external dependencies - uses Python's standard library
+# Because who has time for pip install anyway?
